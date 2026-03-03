@@ -1,0 +1,33 @@
+import math
+
+
+print("hello")
+print('hello2')
+
+print(2+2)
+
+
+for x in range (11):
+    print(x)
+
+
+
+a = "hey"
+b = 12
+t = True
+f = False
+
+print(b)
+
+print(a, b)
+
+
+
+def login(name):
+    if name == "yus":
+        print("you are in")
+    else:
+        print("dsv makker")
+
+
+login("mah")
